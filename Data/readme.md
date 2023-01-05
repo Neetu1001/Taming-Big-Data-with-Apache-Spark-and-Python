@@ -4,3 +4,7 @@
 3. 1800.csv
 4. 1800.csv
 5. book.csv
+6. customer-orders.csv
+7. fakefriends.csv
+8. fakefriends-header.csv
+9. fakefriends-header.csv
